@@ -1,6 +1,4 @@
 
-## README.md (LAB 3 - Data Protection & Key Management)
-
 # LAB 3 – Data Protection & Key Management
 
 ## Goal
@@ -56,3 +54,6 @@ aws s3 cp secret.txt s3://<bucket-name>
 # Result: AccessDenied due to explicit deny in bucket policy
 
 
+=======
+# lab3-aws-data-protection-lab
+Hands-on AWS/Terraform lab to enforce encryption and data protection
